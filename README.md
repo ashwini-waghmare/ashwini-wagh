@@ -1,2 +1,3 @@
 # ashwini-wagh
-my first repository
+This is my first repository
+Author - Ashwini Waghmare
